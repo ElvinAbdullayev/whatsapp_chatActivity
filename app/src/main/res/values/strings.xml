@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="tab_text_1">camera</string>
+    <string name="tab_text_2">chats</string>
+    <string name="tab_text_3">status</string>
+    <string name="tab_text_4">calls</string>
+    <string name="action_new_group">New group</string>
+    <string name="action_search">Search</string>
+    <string name="action_new_broadcast">New broadcast</string>
+    <string name="action_whatsapp_web">WhatsApp Web</string>
+    <string name="action_starred_messages">Starred messages</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_contacts">Contacts</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
